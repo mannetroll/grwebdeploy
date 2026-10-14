@@ -6,7 +6,13 @@ Download a ready-to-run browser game and host it on your own web server. No Unit
 
 **[Play the demo](https://mannetroll.com/grweb/)** · **[Download v0.2.1](https://github.com/mannetroll/grwebdeploy/releases/tag/v0.2.1)** · **[Installation guide](INSTALL.md)**
 
-![GRWeb at Gotland Ring](docs/front.png)
+**iPhone**
+
+![GRWeb on iPhone with touch controls, FPS and lap time](docs/iPhone.png)
+
+**Safari on macOS**
+
+![GRWeb v0.2.1 in macOS Safari](docs/Safari.png)
 
 ## Download and deploy
 
