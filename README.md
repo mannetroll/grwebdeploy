@@ -16,7 +16,7 @@ Download a ready-to-run browser game and host it on your own web server. No Unit
 
 ## Download and deploy
 
-1. Download [GRWeb-v0.2.1.tar.gz](https://github.com/mannetroll/grwebdeploy/releases/download/v0.2.1/GRWeb-v0.2.1.tar.gz) or [GRWeb-v0.2.1.zip](https://github.com/mannetroll/grwebdeploy/releases/download/v0.2.1/GRWeb-v0.2.1.zip), plus [SHA256SUMS](https://github.com/mannetroll/grwebdeploy/releases/download/v0.2.1/SHA256SUMS). Each archive is approximately 206 MiB; both contain the same deployable folder.
+1. Download [GRWeb-v0.2.1.tar.gz](https://github.com/mannetroll/grwebdeploy/releases/download/v0.2.1/GRWeb-v0.2.1.tar.gz) or [GRWeb-v0.2.1.zip](https://github.com/mannetroll/grwebdeploy/releases/download/v0.2.1/GRWeb-v0.2.1.zip), plus [SHA256SUMS](https://github.com/mannetroll/grwebdeploy/releases/download/v0.2.1/SHA256SUMS). Both archives contain the same deployable folder.
 2. Verify the checksum and extract the archive.
 3. Upload the **whole `GRWeb-v0.2.1/` folder's contents** to your site's game directory, preserving the `Build/` subfolder and notices.
 4. Configure your server using [INSTALL.md](INSTALL.md), then visit your game's HTTPS URL and click **Start driving**.
